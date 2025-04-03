@@ -169,9 +169,8 @@ const Contact = () => {
                   id="message"
                   name="message"
                   onChange={(e) => onChange(e)}
-                  value={message}
+                  value={message} // Keep it controlled
                   placeholder="Your message here"
-                  defaultValue={""}
                 />
               </div>
               <div className="iknow_tm_button">

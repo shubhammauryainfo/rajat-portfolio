@@ -14,10 +14,9 @@ const Jessica = ({
             <div className="main_info">
               <div className="left">
                 <span className="subtitle">I'm</span>
-                <h3 className="name">Jessica Parker</h3>
+                <h3 className="name">Rajat Vishwakarma</h3>
                 <p className="text">
-                  A passionate UI/UX Designer and Web Developer based In NYC,
-                  USA
+                  A passionate UI/UX Designer and Web Developer based In MH, IND
                 </p>
                 <div className="iknow_tm_video">
                   <div className="video_inner">
@@ -33,7 +32,7 @@ const Jessica = ({
               <div className="right">
                 <div className="image">
                   <img src="/img/thumbs/47-60.jpg" alt="img" />
-                  <div className="main" data-img-url="/img/hero/1.jpg" />
+                  <div className="main" data-img-url="/img/hero/rajat.png" />
                 </div>
               </div>
             </div>

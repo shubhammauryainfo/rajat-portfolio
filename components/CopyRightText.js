@@ -9,9 +9,9 @@ const CopyRightText = ({ fixed = false, extraCls = false }) => {
         <div className="inner">
           <div className="left">
             <p>
-              Designed with love ©{" "}
-              <a href="https://themeforest.net/user/codeefly" target="_blank">
-                CodeeFly
+              Designed with 💖 ©{" "}
+              <a href="https://nexbytes.rf.gd" target="_blank">
+                Nexbytes
               </a>
             </p>
           </div>

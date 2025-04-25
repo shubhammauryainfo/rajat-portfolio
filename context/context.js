@@ -102,10 +102,10 @@ const state = (props) => {
       img: "/img/about/1.jpg",
       birthday: "April 22, 1990",
       nationality: "Bangladeshi",
-      email: "hello@anderson.com",
-      phone: "+123 456 7890",
+      email: "contact@acanvas.in",
+      phone: "+918208308070",
       bio: "Hi! My name is Jessica Parker. I am UI/UX designer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional graphic designer, I have acquired the skills and knowledge necessary to make your project a success.",
-      address: "20, Bardeshi, Dhaka",
+      address: "Dhaniv Bhaug ,Nallasopara East 401209",
       title: "World leading UI/UX designer",
       subTitle:
         "A passionate UI/UX Designer and Web Developer based In NYC, USA",
